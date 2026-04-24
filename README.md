@@ -7,6 +7,9 @@ Snel experimenteren met 'look & feel' zonder overhead.
 
 ## Structuur
 ├── index.html
+
 ├── /base-assets
+
 │   └── global.css
+
 ├── /prototype 1 - drawer
